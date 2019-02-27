@@ -1,0 +1,35 @@
+* Instrucciones de instalacion:
+    * Dar click en clonar en la parte superior
+    * Una vez obtenido el repositorio abrir un terminal y escribir $make
+    * Luego se iniciara el instalador una vez listo abres gedit
+    * te dirijes a Gestor de Herramientas Externas y ubicas UNICompilerDesignPrograming
+    * Ahora crea una combinacion de teclas para ejecutar el script y listo
+    * Compila tu lenguaje favorito con mas versativilidad y ligeresa.
+
+* Estas son sus caracteristicas:
+    * Compila en C/C++ añade flags adicionales al compilador por si necesitas compilar librerias especiales compatible los dos
+    * Añade nombres especializados a tus ficheros de C/C++ o en caso de no poner ninguno se pondra out por defecto compila y ejecuta los ficheros generados tambien se agruparan los codigo .o y seran eliminados
+* Caracteristicas de los interpretes para JAVA PYTHON2/3 y Shell Script
+    * El codigo generado se hara una compilacion por el respectivo interprete, confirmando la compilacion para el fichero abierto.
+    * El script es inteligente detecta el tipo de nomenclatura para Python2/3 detecta cuando se hiza el tipo de sintaxis y lo compila con el interprete respectivo.
+
+* Installation instructions:
+    * Click on clone on top
+    * Once the repository is obtained, open a terminal and write $make
+    * Then the installer will start once ready open gedit
+    * you go to External Tools Manager and locate UNICompilerDesignPrograming
+    * Now create a combination of keys to execute the script and you're done
+    * Compile your favorite language with more versatility and lightness.
+    
+* These its feactures:
+    * Compile in C / C ++ add additional flags to the compiler in case you need to compile special libraries compatible both
+    * Add specialized names to your C / C ++ files
+    or in case of not putting any will be put out by default
+    compile and execute the generated files will also be grouped the .o codes and will be eliminated
+* Characteristics of interpreters for JAVA PYTHON2 / 3 and Shell Script
+    * The generated code will be compiled by the respective interpreter, confirming the compilation for the open file.
+    * The script is intelligent detects the type of nomenclature for Python2 / 3 detects when the syntax type is made and compiles it with the respective interpreter.
+
+Creado por Design&Programing.ec 
+                                                    https://www.youtube.com/c/DesignPrograming
+Create by Design&Programing.ec       
